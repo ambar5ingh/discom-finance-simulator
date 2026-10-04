@@ -1,0 +1,28 @@
+key,value,unit,source_id,note
+base_fy,,FY ending,,fill in the value and a source_id from data/sources.csv
+sales_mu,,million kWh,,fill in the value and a source_id from data/sources.csv
+billing_loss,,share,,fill in the value and a source_id from data/sources.csv
+billing_loss_target,,share,,fill in the value and a source_id from data/sources.csv
+appc,,Rs/kWh,,fill in the value and a source_id from data/sources.csv
+power_purchase_cost,,Rs crore,,fill in the value and a source_id from data/sources.csv
+employee_cost,,Rs crore,,fill in the value and a source_id from data/sources.csv
+interest_cost,,Rs crore,,fill in the value and a source_id from data/sources.csv
+depreciation,,Rs crore,,fill in the value and a source_id from data/sources.csv
+other_cost,,Rs crore,,fill in the value and a source_id from data/sources.csv
+tariff_booked,,Rs crore,,fill in the value and a source_id from data/sources.csv
+tariff_collected,,Rs crore,,fill in the value and a source_id from data/sources.csv
+subsidy_booked,,Rs crore,,fill in the value and a source_id from data/sources.csv
+subsidy_realised,,Rs crore,,fill in the value and a source_id from data/sources.csv
+uday_grant,,Rs crore,,fill in the value and a source_id from data/sources.csv
+other_income_grants,,Rs crore,,fill in the value and a source_id from data/sources.csv
+regulatory_income,,Rs crore,,fill in the value and a source_id from data/sources.csv
+regulatory_assets,,Rs crore,,fill in the value and a source_id from data/sources.csv
+trade_receivables,,Rs crore,,fill in the value and a source_id from data/sources.csv
+payables_power_fuel,,Rs crore,,fill in the value and a source_id from data/sources.csv
+net_worth,,Rs crore,,fill in the value and a source_id from data/sources.csv
+check_cash_gap,,Rs crore,,fill in the value and a source_id from data/sources.csv
+check_D,,Rs crore,,fill in the value and a source_id from data/sources.csv
+check_C,,Rs crore,,fill in the value and a source_id from data/sources.csv
+check_S,,Rs crore,,fill in the value and a source_id from data/sources.csv
+check_RI,,Rs crore,,fill in the value and a source_id from data/sources.csv
+check_residual,,Rs crore,,fill in the value and a source_id from data/sources.csv

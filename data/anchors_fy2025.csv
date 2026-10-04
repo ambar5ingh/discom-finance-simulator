@@ -1,0 +1,5 @@
+indicator,fy,value,unit,source_id,note
+atc_loss_national,2025,0.1616,share,G1,Official basis
+acs_arr_gap_national,2025,0.11,Rs/kWh,G1,Official basis (not comparable 1:1 with the CSEP cash basis)
+debt_outstanding,2025,718793,Rs crore,G1,Counting TNPDCL only for Tamil Nadu
+payable_days,2025,120,days,G1,Provisional

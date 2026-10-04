@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "discom-sim"
+version = "0.1.0"
+description = "DISCOM Finance Simulator: open-source model of Indian electricity distribution finances"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = ["pandas>=2", "numpy"]
+
+[tool.setuptools]
+packages = ["discom_sim"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

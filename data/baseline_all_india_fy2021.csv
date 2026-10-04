@@ -1,0 +1,28 @@
+key,value,unit,source_id,note
+base_fy,2021,FY ending,C1,FY2020-21; 59 public DISCOMs and power departments (excludes private utilities)
+sales_mu,913475,million kWh,C1,Net energy sold
+billing_loss,0.1638,share,C1,Billing inefficiency = 1 - billing efficiency
+billing_loss_target,0.12855,share,C1,Derived: actual billing loss minus the 3.53% beyond-target figure (CSEP target benchmark 12.85%)
+appc,4.68,Rs/kWh,C1,Average power purchase cost; CSEP values excess billing loss at gross input x APPC
+power_purchase_cost,549353,Rs crore,C1,Cost of power incl. own generation
+employee_cost,63201,Rs crore,C1,
+interest_cost,51807,Rs crore,C1,Consistent with total cost of 722126 (Table 1b prints 52807; Figure ES1 prints 51807)
+depreciation,28000,Rs crore,C1,
+other_cost,29765,Rs crore,C1,Repairs and maintenance; admin and general; other
+tariff_booked,480639,Rs crore,C1,Consumer tariff booked
+tariff_collected,458344,Rs crore,C1,Consumer tariff collected
+subsidy_booked,129267,Rs crore,C1,
+subsidy_realised,109039,Rs crore,C1,
+uday_grant,5555,Rs crore,C1,Revenue grant under UDAY
+other_income_grants,45097,Rs crore,C1,Other income and revenue grants
+regulatory_income,7236,Rs crore,C1,Booked but not realised (creates regulatory assets)
+regulatory_assets,45907,Rs crore,C1,Balance sheet 31.03.2021
+trade_receivables,234072,Rs crore,C1,Balance sheet 31.03.2021
+payables_power_fuel,252736,Rs crore,C1,Balance sheet 31.03.2021
+net_worth,-170447,Rs crore,C1,Aggregate net worth at end of the 15-year study period
+check_cash_gap,104091,Rs crore,C1,Validation target: cash-basis gap incl. grants
+check_D,18022,Rs crore,C1,Validation target
+check_C,22295,Rs crore,C1,Validation target
+check_S,20228,Rs crore,C1,Validation target
+check_RI,7236,Rs crore,C1,Validation target
+check_residual,36310,Rs crore,C1,Validation target

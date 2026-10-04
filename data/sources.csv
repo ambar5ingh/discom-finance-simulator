@@ -1,0 +1,8 @@
+source_id,type,citation,url
+G1,government,"Ministry of Power, Lok Sabha Unstarred Question 3075, answered 18.12.2025 (outstanding debt and payables of DISCOMs, Annexures I-III)",https://eparlib.sansad.in/bitstream/123456789/3018498/1/AU3075_vtM66t.pdf
+C1,research,"R. Devaguptapu & R. Tongia, Breaking Down the Gap in DisCom Finances: Explaining the Causes of Missing Money, CSEP Impact Series 052023-01, May 2023",https://csep.org
+I1,rating_agency,"ICRA via T&D India, 'Average tariff hike of 4.5 per cent needed to eliminate ACS-ARR gap, notes ICRA'",https://www.tndindia.com/average-tariff-hike-of-4-5-per-cent-needed-to-eliminate-acs-arr-gap-notes-icra/
+I2,rating_agency,"G. Kadam (ICRA), 'Reducing the Cash Gap', Power Line, July 2026",https://powerline.net.in/2026/07/17/reducing-the-cash-gap-operational-improvement-key-to-strengthening-discom-finances/
+P1,press,"Power Line, 'Enforcing Financial Discipline: Supreme Court issues order on liquidation of mounting regulatory assets', Sept 2025",https://powerline.net.in/2025/09/01/enforcing-financial-discipline-supreme-court-issues-order-on-liquidation-of-mounting-regulatory-assets/
+P2,press,"Rau's IAS Compass, 'Powering Viksit Bharat: Draft National Electricity Policy 2026'",https://compass.rauias.com/current-affairs/draft-national-electricity-policy-2026/
+DESIGN,design_choice,"Modelling assumption chosen for the simulator; not a sourced fact. Replace with calibrated values where data allow.",
